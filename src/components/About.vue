@@ -9,7 +9,7 @@
                     <div class="flex flex-col gap-1">
                         <h1 class="text-3xl font-bold text-gray-300 mb-5">Nemoto Mailon</h1>
                         <p class="text-gray-200 text-2xl">
-                            Software Developer & Security Engineer
+                            Software Developer
                         </p>
                     </div>
                     <!-- Card -->

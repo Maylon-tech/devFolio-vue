@@ -21,7 +21,6 @@
     <Contact />
     <Footer />
   </div>
-  <HelloWorld msg="Vite + Vue" />
 </template>
 
 
